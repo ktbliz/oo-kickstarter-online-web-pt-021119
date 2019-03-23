@@ -7,7 +7,7 @@ class Backer
   end 
   
   def back_project(project)
-    @backed_projects << project if project.class == Project 
+    @backed_projects << project if project.class == Project s
   end 
 
 end 
