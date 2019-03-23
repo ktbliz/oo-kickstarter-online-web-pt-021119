@@ -1,4 +1,4 @@
-classs Project 
+class Project 
 
   attr_reader :backers
 
